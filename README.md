@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there! I'm Patryk 👋
 
-<!--
-**Reb00rnx/Reb00rnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Java Developer** 
+Currently on a journey to master backend technologies and beyond.
+This space is where I document my learning progress and showcase projects that come to life during my coding sessions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Learning Path
+* **Currently focusing on:** `Java`, `Spring Boot`, `SQL`
+* **The Big Goal:** Becoming a **Full Stack Developer** 🚀
+* **Future expansion:** `JavaScript`, `HTML/CSS`, `Angular`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Roadmap
+**More repositories soon:**
+
+`[██▒▒▒▒▒▒▒▒▒▒▒▒▒] 20% in progress...`
+
+---
+
+### ⚡ Fun Facts
+* 🎓 I am an **Automation and Robotics Engineer**
+* 🐶 Huge dog lover
+* 🕹️ **Hobbies:** Gaming, gym, books, and everything Star Wars

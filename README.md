@@ -5,9 +5,9 @@ Currently on a journey to master backend technologies and beyond.
 This space is where I document my learning progress and showcase projects that come to life during my coding sessions.
 
 ### 🛠 Tech Stack & Learning Path
-* **Currently focusing on:** `Java`, `Spring Boot`, `SQL`
+* **Currently focusing on:** `Java`, `Spring Boot`, `SQL`, `POSTGRES`, `DOCKER`
 * **The Big Goal:** Becoming a **Full Stack Developer** 🚀
-* **Future expansion:** `JavaScript`, `HTML/CSS`, `Angular`
+* **Future expansion:** `JavaScript`, `HTML/CSS`, `Angular`, `AWS`
 
 ---
 
